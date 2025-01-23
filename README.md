@@ -1,4 +1,4 @@
 # -personal-Music-player
 using Html, css andjavascript
 </br>
-author - Alok Kumar
+author - Alok Kumar (Qspider)
